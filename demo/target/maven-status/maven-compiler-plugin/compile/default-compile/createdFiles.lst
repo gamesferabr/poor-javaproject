@@ -1,0 +1,9 @@
+com\exemple\Main.class
+com\exemple\servlet\DeletarLivroServlet.class
+com\exemple\servlet\EditarLivroServlet.class
+com\exemple\servlet\InserirLivroServlet.class
+com\exemple\dao\LivroDAO.class
+com\exemple\servlet\AtualizarLivroServlet.class
+com\exemple\util\DatabaseConnection.class
+com\exemple\model\Livro.class
+com\exemple\servlet\ListarLivrosServlet.class

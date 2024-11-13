@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:javaproject}/demo/src/main/resources/database/livros.db",
+            "name": "LivrosDatabase"
+        }
+    ]
+}
